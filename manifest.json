@@ -1,0 +1,6 @@
+{
+  "name": "nav-header",
+  "short_name": "nav-header",
+  "start_url": "/",
+  "display": "standalone"
+}
